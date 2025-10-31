@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+out/
+build/
+
+# ASP.NET temporary files
+wwwroot/data/
+
+# Logs
+*.log
+logs/
+
+# Rider / JetBrains
+.idea/
+
+# DotNet tools
+.tools/
+.nuget/
+*.nupkg
+*.snupkg
